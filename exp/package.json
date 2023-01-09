@@ -1,0 +1,22 @@
+{
+  "name": "dom_clob_swig",
+  "version": "1.0.0",
+  "description": "DOMClob Swig exercise",
+  "main": "loadCommentsWithDomClobbering.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosmicsage/swiger.git"
+  },
+  "author": "mee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cosmicsage/swiger/issues"
+  },
+  "homepage": "https://github.com/cosmicsage/swiger#readme",
+  "dependencies": {
+    "xhr2": "^0.2.1"
+  }
+}
