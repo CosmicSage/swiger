@@ -1,0 +1,17 @@
+curl 'https://0aa200f20374a59d803ba93800ea0097.web-security-academy.net/my-account/change-address' \
+  -H 'authority: 0aa200f20374a59d803ba93800ea0097.web-security-academy.net' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json;charset=UTF-8' \
+  -H 'cookie: session=d4fnlJyMLSxk3YGry96KBsQ3Arftcogg' \
+  -H 'dnt: 1' \
+  -H 'origin: https://0aa200f20374a59d803ba93800ea0097.web-security-academy.net' \
+  -H 'referer: https://0aa200f20374a59d803ba93800ea0097.web-security-academy.net/my-account' \
+  -H 'sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36' \
+  -d @payload.json --http1.1 \
