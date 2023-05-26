@@ -1,1 +1,1 @@
-' UNION SELECT NULL,TABLE_NAME FROM information_schema.tables--
+' UNION SELECT TABLE_NAME,NULL FROM information_schema.tables--
