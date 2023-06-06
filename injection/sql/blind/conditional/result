@@ -53,40 +53,40 @@
                     <section class="search-filters">
                         <label>Refine your search:</label>
                         <a class="filter-category" href="/">All</a>
-                        <a class="filter-category" href="/filter?category=Accessories">Accessories</a>
+                        <a class="filter-category" href="/filter?category=Clothing%2c+shoes+and+accessories">Clothing, shoes and accessories</a>
                         <a class="filter-category" href="/filter?category=Corporate+gifts">Corporate gifts</a>
                         <a class="filter-category" href="/filter?category=Food+%26+Drink">Food & Drink</a>
                         <a class="filter-category selected" href="/filter?category=Lifestyle">Lifestyle</a>
-                        <a class="filter-category" href="/filter?category=Pets">Pets</a>
+                        <a class="filter-category" href="/filter?category=Tech+gifts">Tech gifts</a>
                     </section>
                     <section class="container-list-tiles">
                         <div>
                             <img src="/image/productcatalog/products/4.jpg">
                             <h3>BURP Protection</h3>
-                            <img src="/resources/images/rating3.png">
-                            $27.31
-                            <a class="button" href="/product?productId=1">View details</a>
+                            <img src="/resources/images/rating1.png">
+                            $32.27
+                            <a class="button" href="/product?productId=3">View details</a>
                         </div>
                         <div>
-                            <img src="/image/productcatalog/products/3.jpg">
-                            <h3>Balance Beams</h3>
-                            <img src="/resources/images/rating2.png">
-                            $20.35
-                            <a class="button" href="/product?productId=6">View details</a>
-                        </div>
-                        <div>
-                            <img src="/image/productcatalog/products/71.jpg">
-                            <h3>There&apos;s No Place Like Gnome</h3>
+                            <img src="/image/productcatalog/products/59.jpg">
+                            <h3>Inflatable Holiday Home</h3>
                             <img src="/resources/images/rating5.png">
-                            $80.48
-                            <a class="button" href="/product?productId=11">View details</a>
+                            $31.87
+                            <a class="button" href="/product?productId=8">View details</a>
                         </div>
                         <div>
-                            <img src="/image/productcatalog/products/61.jpg">
-                            <h3>Safety First</h3>
+                            <img src="/image/productcatalog/products/46.jpg">
+                            <h3>Hitch A Lift</h3>
+                            <img src="/resources/images/rating1.png">
+                            $93.64
+                            <a class="button" href="/product?productId=13">View details</a>
+                        </div>
+                        <div>
+                            <img src="/image/productcatalog/products/14.jpg">
+                            <h3>Mood Enhancer</h3>
                             <img src="/resources/images/rating4.png">
-                            $80.04
-                            <a class="button" href="/product?productId=16">View details</a>
+                            $37.71
+                            <a class="button" href="/product?productId=18">View details</a>
                         </div>
                     </section>
                 </div>
